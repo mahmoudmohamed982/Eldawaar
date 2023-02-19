@@ -1,0 +1,30 @@
+.services-det-item{
+  border: 3px solid var(--main-color) ;
+}
+.sercice-slogan{
+  border-radius: 60px 5px;
+  
+}
+.top-service-head img{
+  width: 50px;
+}
+.slogan-content {
+  top: 35% !important;
+}
+.bottom-contact{
+  color: #2b4f66 !important;
+
+}
+.contact-slogan-h {
+  color: #2b4f66 !important;
+}
+.contact-slogan-p{
+  color: #fadf70 !important;
+}
+@media (max-width: 776px) {
+
+
+.slogan-content {
+  top: 50% !important;
+}
+}
